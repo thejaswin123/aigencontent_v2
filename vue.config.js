@@ -6,5 +6,6 @@ module.exports = defineConfig({
     experiments: {
       asyncWebAssembly: true
     }
-  }
+  },
+  publicPath: ''
 })
